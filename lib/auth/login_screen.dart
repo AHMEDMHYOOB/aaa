@@ -33,8 +33,7 @@ class LoginPageState extends State<LoginPage> {
 
   @override
   Widget build(BuildContext context) {
-    var inputDecoration = InputDecoration;
-    var inputDecoration2 = InputDecoration;
+
     return Scaffold(
       body: Stack(
         fit: StackFit.expand,
